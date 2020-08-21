@@ -6,7 +6,10 @@
 
 ## Description
 
-The program allows users to find specific movies and add them to a favorites list. The user can search by Movie Title, Actor, or Director and see most popular movie results. The user can then add certain demographic or identity tags to the movie. The intent of this project is to create a program that will allow users to see positive representations of their own or others' identities in media. This is particularly important for underrepresented groups as studies show that positive media representation is a critical factor in equity and social justice for marginalized communities.  Future stretch goals include: the ability to rate the representation as more or less positive, rate the movie overall, create a forum to discuss representations in pop culture, and to create/store tagging metadata in an API database that others can access to get movie recommendations. 
+The program allows users to find specific movies and add them to a favorites list. The user can search by Movie Title, Actor, or Director and see most popular movie results. The user can then add certain demographic or identity tags to the movie. The intent of this project is to create a program that will allow users to see positive representations of their own or others' identities in media. This is particularly important for underrepresented groups as studies show that positive media representation is a critical factor in equity and social justice for marginalized communities.  Future stretch goals include: the ability to rate the representation as more or less positive, rate the movie overall, create a forum to discuss representations in pop culture, and to create/store tagging metadata in an API database that others can access to get movie recommendations.
+
+## Demo
+![A quick demo of Project Me Finder](assets/images/readme/demo.gif)
 
 ## Setup/Installation Requirements
 
